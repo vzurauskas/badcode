@@ -1,4 +1,4 @@
-package net.danskenet.oipc.caseregistration.interview;
+package net.danskenet.interview;
 
 import com.fasterxml.jackson.databind.node.ObjectNode;
 
