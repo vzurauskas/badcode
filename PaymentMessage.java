@@ -9,6 +9,7 @@ import java.util.List;
 public class PaymentMessage {
     final String type;
     ObjectNode json;
+    public final int i = 0;
 
     public PaymentMessage(String type) {
         this.type = type;
